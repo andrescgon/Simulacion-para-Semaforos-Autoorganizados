@@ -57,8 +57,6 @@ CAR_LEN → longitud virtual para espaciamiento.
 
 # Reglas auto-organizantes 
 
-A continuación se listan tal cual las reglas:
-
 + Contador por eje en rojo:
 En cada paso de tiempo, agregar a un contador el número de vehículos que se acercan o esperan ante una luz roja a una distancia d.
 Cuando este contador exceda un umbral n, cambiar el semáforo.
