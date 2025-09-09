@@ -1,7 +1,7 @@
 # Integrantes :
 + Andres Castro Gonzalez
-+ Juan Hurtado Herrera
-+ Franco Comas
++ Juan Felipe Hurtado Herrera
++ Franco Sebastian Comas Rey
   
 # Simulación de Semáforos Auto-Organizantes (Grid 3×3)
   
