@@ -1,9 +1,9 @@
-# Simulación de Semáforos Auto-Organizantes (Grid 3×3)
-
 # Integrantes :
 + Andres Castro Gonzalez
 + Juan Hurtado Herrera
 + Franco Comas
+  
+# Simulación de Semáforos Auto-Organizantes (Grid 3×3)
   
 Este proyecto implementa una simulación 2D de un entramado 3×3 de intersecciones con semáforos auto-organizantes y generación estocástica de vehículos.
 El control semafórico sigue las 6 reglas del esquema “Semáforos Auto-Organizantes”.
