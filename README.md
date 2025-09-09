@@ -1,1 +1,1 @@
-# simulaci-n-para-sem-foros-autoorganizados
+# simulacion para semaforos autoorganizados
