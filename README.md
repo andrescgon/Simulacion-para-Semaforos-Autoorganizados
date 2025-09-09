@@ -1,4 +1,4 @@
-#Simulación de Semáforos Auto-Organizantes (Grid 3×3)
+# Simulación de Semáforos Auto-Organizantes (Grid 3×3)
 
 # Integrantes :
 + Andres Castro Gonzalez
